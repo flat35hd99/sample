@@ -5,6 +5,7 @@
 ##### h5 Heading
 ###### h6 Heading
 
+![パロットの写真](parrot.png)
 
 ## Horizontal Rules
 
